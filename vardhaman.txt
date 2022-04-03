@@ -1,0 +1,2 @@
+my major project is based on implementation of iot based pet care system using arduino!!
+my mini project is brain tumor detection using convolutional neural network.
